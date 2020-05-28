@@ -1,0 +1,3 @@
+vish-PC MINGW64 ~/projects/starter-web/l1/l2 (master)
+$ git mv l3-file.txt
+
